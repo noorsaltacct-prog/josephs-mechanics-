@@ -1,0 +1,4 @@
+Stock imagery used for illustration; not photographs of Joseph's Mechanics.
+Unsplash: photo-1615906655593-ad0386982a0f (hero); photo-1625047509248-ec889cbff17f (diagnostics); Erik Mclean / vS2shmNei2E (brakes); photo-1619642751034-765dfdf7c58e (belts); Tim Mossholder / V37iTrYZz2E (maintenance); Dextar Studio / s6qrMXmJSdM (inspection).
+Battery: Pexels https://www.pexels.com/photo/close-up-photo-of-car-s-battery-4374843/
+Photos downloaded and bundled to avoid external image download failures.
